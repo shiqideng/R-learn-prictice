@@ -1,2 +1,2 @@
 # R-learn-prictice
-Some notes and knowlage for R
+Some notes and knowledge for R
